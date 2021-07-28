@@ -1,6 +1,7 @@
 # flask-todo
 To-do list Flask based web app.  
-<strong>Deployed application:</strong> https://ultimate-flask-todo.herokuapp.com/
+<strong>Deployed application:</strong> https://ultimate-flask-todo.herokuapp.com/  
+(free-tier Heroku server takes a second to "wake up")
 
 ## development
 in the root folder, run  
