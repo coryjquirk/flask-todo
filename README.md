@@ -11,5 +11,14 @@ in the root folder, run
 ## technologies
 * [Flask](https://flask.palletsprojects.com/en/2.0.x/_)
     * Python web framework
+    * SQLite server
+        * powered by Flask_SQLAlchemy & Flask_Migrate
 * [Semantic UI](https://semantic-ui.com/)
     * styling
+
+![app screenshot](/screenshot.png)
+
+## credit
+helpful guides:  
+* [Python Engineer](https://www.youtube.com/watch?v=yKHJsLUENl0) on YouTube  
+* [Real Python](https://realpython.com/flask-by-example-part-1-project-setup/) Heroku deployment guide
