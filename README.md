@@ -1,5 +1,6 @@
 # flask-todo
-To-do list Flask based web app.
+To-do list Flask based web app.  
+<strong>Deployed application:</strong> https://ultimate-flask-todo.herokuapp.com/
 
 ## development
 in the root folder, run  
@@ -16,7 +17,7 @@ in the root folder, run
 * [Semantic UI](https://semantic-ui.com/)
     * styling
 
-![app screenshot](/screenshot.png)
+![app screenshot](https://raw.githubusercontent.com/coryjquirk/flask-todo/main/screenshot.PNG)
 
 ## credit
 helpful guides:  
