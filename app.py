@@ -47,10 +47,6 @@ def delete(todo_id):
 if __name__ == "__main__":
     db.create_all()
 
-    new_todo = Todo(title="todo 1", complete=False)
-    db.session.add(new_todo)
-    db.session.commit()
-
     app.run(debug=True)
 
 # export FLASK_APP=app.py
