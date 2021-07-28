@@ -5,6 +5,9 @@ To-do list Flask based web app.
 in the root folder, run  
 `flask run` or `python3 app.py`
 
+### dependencies
+`pip install flask flask_sqlalchemy flask_migrate`  
+
 ## technologies
 * [Flask](https://flask.palletsprojects.com/en/2.0.x/_)
     * Python web framework
